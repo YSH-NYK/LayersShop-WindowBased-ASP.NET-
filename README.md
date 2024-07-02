@@ -1,9 +1,16 @@
 # LayersShop(WindowBased-ASP.NET)
-A Mobile Skin selling Ecommerce website using ASP.NET(Window forms) on Visual Studio 2022
-![image](https://github.com/YSH-NYK/LayersShop-WindowBased-ASP.NET-/assets/168950684/ecc58e46-4263-4f72-bf58-e82e6c3ec151)
-![image](https://github.com/YSH-NYK/LayersShop-WindowBased-ASP.NET-/assets/168950684/1f3b59a6-0ccc-4d44-b2ff-52223063f691)
-![image](https://github.com/YSH-NYK/LayersShop-WindowBased-ASP.NET-/assets/168950684/40a22970-0ca3-4ed6-96d3-44bb71918588)
-![image](https://github.com/YSH-NYK/LayersShop-WindowBased-ASP.NET-/assets/168950684/045e6585-d07d-48e0-b040-dcd7b6110e3b)
-![image](https://github.com/YSH-NYK/LayersShop-WindowBased-ASP.NET-/assets/168950684/ced8e41f-de44-4723-98ed-a04153be4865)
+A Mobile Skin selling Ecommerce website using ASP.NET(Window forms) on Visual Studio 2022 <br>
+
+# Screenshots
+1. Register
+![image](https://github.com/YSH-NYK/LayersShop-WindowBased-ASP.NET-/assets/168950684/61d35158-ca66-49a9-b757-167c8b76d0d5) <br>
+2. Login
+![image](https://github.com/YSH-NYK/LayersShop-WindowBased-ASP.NET-/assets/168950684/9d2b2c5e-acd0-46a0-b4be-d25bf9ff4001) <br>
+3.Home Page
+![image](https://github.com/YSH-NYK/LayersShop-WindowBased-ASP.NET-/assets/168950684/d2473ebf-b9b6-4aa5-9b78-1f22218013d5) <br>
+4.Categories
+![image](https://github.com/YSH-NYK/LayersShop-WindowBased-ASP.NET-/assets/168950684/4a7d8156-775e-435d-abf9-e5d111b14c38) <br>
+5.Items
+![image](https://github.com/YSH-NYK/LayersShop-WindowBased-ASP.NET-/assets/168950684/29727326-711b-43fc-9bc2-fc7f593613fa) <br>
 
 
